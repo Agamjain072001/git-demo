@@ -1,0 +1,4 @@
+secrets.js
+
+# This file is used to add those files which are ignored when we push our code to github
+# Mainly this file contains names of those file which are having passwords, configs, etc.
